@@ -1,4 +1,4 @@
-🔧 **Cloud & DevOps Engineer**
+🔧 **Senior Platform Engineer**
+- Kubernetes
 - Azure
 - IaC
-- Kubernetes
